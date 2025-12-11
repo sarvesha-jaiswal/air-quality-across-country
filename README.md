@@ -21,6 +21,8 @@ This project analyzes air pollution levels across major Indian cities using hist
   - Highlights seasonal peaks and periods of high pollution.  
   - Helps stakeholders track trends and plan interventions for critical months.
 
+<img width="902" height="690" alt="image" src="https://github.com/user-attachments/assets/9e58c44d-04d3-45dc-ba81-2d9da4666256" />
+
 - **PM2.5 Trend Comparison Across Cities**  
   - Line chart comparing PM2.5 levels across multiple major cities.  
   - Highlights differences in pollution severity and seasonal variations.  
@@ -30,6 +32,8 @@ This project analyzes air pollution levels across major Indian cities using hist
   - Bar chart ranking cities by the highest PM2.5 levels.  
   - Quickly identifies pollution hotspots.  
   - Useful for awareness campaigns and city-level policy focus.
+
+<img width="1003" height="612" alt="image" src="https://github.com/user-attachments/assets/f0fd9359-4378-4576-9cca-ca95030232bb" />
 
 - **AQI Score by City**  
   - Bar chart showing a custom AQI score based on weighted pollutants.  
@@ -50,6 +54,9 @@ This project analyzes air pollution levels across major Indian cities using hist
   - Displays pairwise correlation between key pollutants.  
   - Identifies pollutants that rise and fall together.  
   - Supports insights on pollution sources and mitigation strategies.
+ 
+<img width="860" height="631" alt="image" src="https://github.com/user-attachments/assets/0cf64ca1-3a80-4517-ab05-1d5381af2611" />
+
 
 - **Interactive Folium Heatmaps**  
   - **Pollution Index Map:** Visualizes weighted pollution index (PM2.5 & PM10).  
